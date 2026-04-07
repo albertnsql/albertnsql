@@ -46,6 +46,13 @@ before someone has to ask it.
 
 ## Featured Projects
 
+### [LookML Auditor](https://github.com/albertnsql/lookml-auditor)
+LookML Auditor is a powerful, privacy-first static analysis tool for Looker projects. 
+It helps developers maintain high quality code by detecting broken references, duplicate definitions,
+and join integrity issues all in one beautiful dashboard.
+
+`Python` `looker` `parser` `lookml` `streamlit`
+
 ### [SaaS Product Analytics](https://github.com/albertnsql/saas-product-analytics)
 Analytics pipeline for a synthetic SaaS dataset — synthetic event data
 generated with Python, modeled in dbt, and structured to answer product and
