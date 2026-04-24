@@ -47,6 +47,8 @@ before someone has to ask it.
 ## Featured Projects
 
 ### [LookML Auditor](https://github.com/albertnsql/lookml-auditor-web)
+Live app : https://lookml-auditor-web.vercel.app
+
 LookML Auditor is a powerful, privacy-first static analysis tool for Looker projects. 
 It helps developers maintain high quality code by detecting broken references, duplicate definitions,
 and join integrity issues all in one beautiful dashboard.
